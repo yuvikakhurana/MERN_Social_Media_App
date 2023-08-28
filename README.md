@@ -1,3 +1,8 @@
+# MERN Social Media App 
+
+A MERN full stack social media platform, seamlessly integrating MongoDB, Express.js, React, and Node.js, enabling users to create, connect, and share while ensuring real-time updates and data-driven interactions.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
